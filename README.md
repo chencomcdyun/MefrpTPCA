@@ -1,14 +1,4 @@
 # MefrpTPCA
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/chencomcdyun/MefrpTPCA?style=flat-edge" alt="stars">
-  <img src="https://img.shields.io/github/forks/chencomcdyun/MefrpTPCA?style=flat-edge" alt="forks">
-  <img src="https://img.shields.io/github/license/chencomcdyun/MefrpTPCA?style=flat-edge" alt="license">
-</p>
-
-
----
-
 ## 📖 简介
 
 MefrpTPCA 旨在为用户提供更便捷的穿透管理体验
